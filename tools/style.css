@@ -242,8 +242,7 @@ background-position: -180px -62px;
 
 
 .social-icons .icons-color:hover{
-	transform: scale(.9);
-	background: rgba(255, 0, 0, 0.5);
+	transform: scale(1.2);
 }
 
 section{
